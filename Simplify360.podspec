@@ -11,5 +11,6 @@ Pod::Spec.new do |spec|
 
   spec.source_files = "Sources/S360-Chat-Sdk/**/*"
   
+  
 end
 
